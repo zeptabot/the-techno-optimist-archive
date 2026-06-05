@@ -5,10 +5,6 @@
 
 [Notes on e/acc principles and tenets](https://substack.com/@effectiveaccelerationism/p-81634629)
 
-[ZERO TO ONE](https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf)
-
-[Meltdown](https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf)
-
 [A Quick and dirty introduction to accelerationsim](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/LAND%2C%20Nick%20-%20A%20Quick%20and%20Dirty%20Introduction%20to%20Accelerationism.pdf)
 
 [Prometehus Unbound: Rise of the Soveregin Individual](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/The_Sovereign_Individual.pdf)
@@ -25,11 +21,17 @@
 
 [Economics in One Lesson](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/Economics%20in%20One%20Lesson%20(Henry%20Hazlitt%20%5BHazlitt%2C%20Henry%5D)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub)
 
+[ZERO TO ONE](https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf)
 
-## Theology
+
+## Theology & Eschatology
 [The Singulairty Is Near]([https://z-lib.fm/book/Y0LXePr50K/the-singularity-is-near-when-humans-trascend-biology.html](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/The%20singularity%20is%20near%20when%20humans%20trascend%20biology%20(Ray%20Kurzweil)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub))
 
 [Life 3.0]([https://z-lib.fm/book/lvAy9rvKAE/life-30-being-human-in-the-age-of-artificial-intelligence.html](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/Life%203.0%20Being%20Human%20in%20the%20Age%20of%20Artificial%20Intelligence%20(Max%20Tegmark)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub))
+
+[Meltdown](http://www.ccru.net/swarm1/1_melt.htm)
+
+[The End of the Future](https://www.nationalreview.com/2011/10/end-future-peter-thiel/)
 
 
 
