@@ -1,4 +1,4 @@
-# Glory, and then possibly salavation, is only possible through scientfic progress and scientfic progress alone. We proclaom this to be the only lucid view of history.
+# Glory, and then possibly salavation, can only be achieved through scientfic and technological progress alone. We proclaom this to be the only lucid view of history.
 
 ## Confession of Faith
 [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)
