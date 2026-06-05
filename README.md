@@ -13,9 +13,15 @@
 
 [Prometehus Unbound: Rise of the Soveregin Individual](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/The_Sovereign_Individual.pdf)
 
-An Overview of the Singulairty
+[The Singulairty Is Near](https://z-lib.fm/book/Y0LXePr50K/the-singularity-is-near-when-humans-trascend-biology.html)
 
 ## Foundational Theology
 [Life 3.0](https://z-lib.fm/book/lvAy9rvKAE/life-30-being-human-in-the-age-of-artificial-intelligence.html)
+
 [The Beginning Of Infinity](https://z-lib.fm/book/zjADeWyyZk/the-beginning-of-infinity.html)
+
+[The Fabric Of Reality](https://z-lib.fm/book/RN0Wp6d9gq/the-fabric-of-reality-the-science-of-parallel-universesand-its-implications.html)
+
+
+
 
