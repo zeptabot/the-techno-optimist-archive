@@ -8,3 +8,5 @@
 [ZERO TO ONE](https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf)
 
 [Meltdown](https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf)
+
+[A Quick and dirty introduction to accelerationsim](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/LAND%2C%20Nick%20-%20A%20Quick%20and%20Dirty%20Introduction%20to%20Accelerationism.pdf)
