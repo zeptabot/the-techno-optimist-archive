@@ -9,8 +9,6 @@
 
 [Prometehus Unbound: Rise of the Soveregin Individual](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/The_Sovereign_Individual.pdf)
 
-[Meltdown](http://www.ccru.net/swarm1/1_melt.htm)
-
 
 ## Scriputre
 [The Beginning Of Infinity](https://z-lib.fm/book/zjADeWyyZk/the-beginning-of-infinity.html)
@@ -32,6 +30,8 @@
 [The End of the Future](https://www.nationalreview.com/2011/10/end-future-peter-thiel/)
 
 [ZERO TO ONE](https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf)
+
+[Meltdown](http://www.ccru.net/swarm1/1_melt.htm)
 
 
 
