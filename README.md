@@ -23,6 +23,8 @@
 
 [Evolutionary Psychology: The New Science of the Mind , 7th Edition](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/Evolutionary%20Psychology%20The%20New%20Science%20of%20the%20Mind%20%2C%207th%20Edition%20(David%20M.%20Buss)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).pdf)
 
+[Economics in One Lesson](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/Economics%20in%20One%20Lesson%20(Henry%20Hazlitt%20%5BHazlitt%2C%20Henry%5D)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub)
+
 
 ## Theology
 [The Singulairty Is Near]([https://z-lib.fm/book/Y0LXePr50K/the-singularity-is-near-when-humans-trascend-biology.html](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/The%20singularity%20is%20near%20when%20humans%20trascend%20biology%20(Ray%20Kurzweil)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub))
