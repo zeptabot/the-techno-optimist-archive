@@ -21,8 +21,6 @@
 
 [Economics in One Lesson](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/Economics%20in%20One%20Lesson%20(Henry%20Hazlitt%20%5BHazlitt%2C%20Henry%5D)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub)
 
-[ZERO TO ONE](https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf)
-
 
 ## Theology & Eschatology
 [The Singulairty Is Near]([https://z-lib.fm/book/Y0LXePr50K/the-singularity-is-near-when-humans-trascend-biology.html](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/The%20singularity%20is%20near%20when%20humans%20trascend%20biology%20(Ray%20Kurzweil)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub))
@@ -32,6 +30,8 @@
 [Meltdown](http://www.ccru.net/swarm1/1_melt.htm)
 
 [The End of the Future](https://www.nationalreview.com/2011/10/end-future-peter-thiel/)
+
+[ZERO TO ONE](https://icrrd.com/public/media/01-11-2020-203418Zero%20to%20One.pdf)
 
 
 
