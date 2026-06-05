@@ -1,4 +1,4 @@
-# Salavation through scientfic progress is the only lucid view of history.
+# Glory through scientfic progress is the only lucid view of history.
 
 ## Confession of Faith
 [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)
