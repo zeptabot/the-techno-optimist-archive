@@ -9,6 +9,8 @@
 
 [Prometehus Unbound: Rise of the Soveregin Individual](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/The_Sovereign_Individual.pdf)
 
+[Meltdown](http://www.ccru.net/swarm1/1_melt.htm)
+
 
 ## Scriputre
 [The Beginning Of Infinity](https://z-lib.fm/book/zjADeWyyZk/the-beginning-of-infinity.html)
@@ -26,8 +28,6 @@
 [The Singulairty Is Near](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/The%20singularity%20is%20near%20when%20humans%20trascend%20biology%20(Ray%20Kurzweil)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub)
 
 [Life 3.0](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/Life%203.0%20Being%20Human%20in%20the%20Age%20of%20Artificial%20Intelligence%20(Max%20Tegmark)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub)
-
-[Meltdown](http://www.ccru.net/swarm1/1_melt.htm)
 
 [The End of the Future](https://www.nationalreview.com/2011/10/end-future-peter-thiel/)
 
