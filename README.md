@@ -23,9 +23,9 @@
 
 
 ## Theology & Eschatology
-[The Singulairty Is Near](https://z-lib.fm/book/Y0LXePr50K/the-singularity-is-near-when-humans-trascend-biology.html](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/The%20singularity%20is%20near%20when%20humans%20trascend%20biology%20(Ray%20Kurzweil)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub )
+[The Singulairty Is Near](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/The%20singularity%20is%20near%20when%20humans%20trascend%20biology%20(Ray%20Kurzweil)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub)
 
-[Life 3.0](https://z-lib.fm/book/lvAy9rvKAE/life-30-being-human-in-the-age-of-artificial-intelligence.html](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/Life%203.0%20Being%20Human%20in%20the%20Age%20of%20Artificial%20Intelligence%20(Max%20Tegmark)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub )
+[Life 3.0](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/Life%203.0%20Being%20Human%20in%20the%20Age%20of%20Artificial%20Intelligence%20(Max%20Tegmark)%20(z-library.sk%2C%201lib.sk%2C%20z-lib.sk).epub)
 
 [Meltdown](http://www.ccru.net/swarm1/1_melt.htm)
 
