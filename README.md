@@ -1,6 +1,4 @@
-# Glory, and then possibly salavation, can only be achieved through scientfic and technological progress alone. We proclaim this to be the only sober view of history.
-
-## Confession of Faith
+## Confessions
 [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)
 
 [Notes on e/acc principles and tenets](https://substack.com/@effectiveaccelerationism/p-81634629)
@@ -10,7 +8,7 @@
 [Prometehus Unbound: Rise of the Soveregin Individual](https://github.com/zeptabot/the-techno-optimist-archive/blob/main/The_Sovereign_Individual.pdf)
 
 
-## Scriputre
+## Scriptures
 [The Beginning Of Infinity](https://z-lib.fm/book/zjADeWyyZk/the-beginning-of-infinity.html)
 
 [The Fabric Of Reality](https://z-lib.fm/book/RN0Wp6d9gq/the-fabric-of-reality-the-science-of-parallel-universesand-its-implications.html)
